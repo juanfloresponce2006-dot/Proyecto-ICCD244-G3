@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f51f7eb-8825-43bd-b7cf-a6ef93986667" name="Changes" comment="console version functioning, missing data persistence" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Exception" />
+        <option value="Interface" />
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/prev_code_IA" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/prev_code_IA" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;delatorreandres&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/juanfloresponce2006-dot/Proyecto-ICCD244-G3.git&quot;,
+    &quot;accountId&quot;: &quot;b62d1b64-e504-4c66-93bb-f9c4264b719e&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0102377810006617" />
+      <entry key="MS500" value="1.4535559185453593" />
+      <entry key="S2" value="2.623301772791327" />
+      <entry key="S5" value="4.017402557045255" />
+      <entry key="S10" value="5.10913401240603" />
+      <entry key="S30" value="6.245705362167159" />
+      <entry key="S60" value="6.604457114628342" />
+      <entry key="M2" value="6.808634515363506" />
+      <entry key="M5" value="7.496191093762975" />
+      <entry key="M10" value="11.569711983883378" />
+      <entry key="M15" value="18.41908896834166" />
+      <entry key="M30" value="42.539700370840286" />
+      <entry key="H1" value="79.09816566683656" />
+      <entry key="H2" value="116.31469161927905" />
+      <entry key="H4" value="156.05760884180944" />
+      <entry key="D1" value="408.3848786956461" />
+      <entry key="W1" value="677.8975955071368" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="6.072523405878427E-128" />
+      <entry key="S5" value="1.298218157662325E-51" />
+      <entry key="S10" value="3.6031515833888864E-26" />
+      <entry key="S30" value="3.4006253827786942E-9" />
+      <entry key="S60" value="6.987462234737019E-5" />
+      <entry key="M2" value="0.01336420996566171" />
+      <entry key="M5" value="0.7709107958667961" />
+      <entry key="M10" value="5.776052023800575" />
+      <entry key="M15" value="13.933456767068265" />
+      <entry key="M30" value="43.59404593009349" />
+      <entry key="H1" value="91.28955288435985" />
+      <entry key="H2" value="141.43431369272295" />
+      <entry key="H4" value="190.26058934783666" />
+      <entry key="D1" value="441.94549230126296" />
+      <entry key="W1" value="715.994135901305" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9758253735209613" />
+      <entry key="MS500" value="1.4435155056000843" />
+      <entry key="S2" value="2.6187886233129194" />
+      <entry key="S5" value="4.0146736102731975" />
+      <entry key="S10" value="5.107407989143228" />
+      <entry key="S30" value="6.2450038910634795" />
+      <entry key="S60" value="6.604155849815691" />
+      <entry key="M2" value="6.821758918257659" />
+      <entry key="M5" value="8.265233245146776" />
+      <entry key="M10" value="17.336944693282717" />
+      <entry key="M15" value="32.33687980082388" />
+      <entry key="M30" value="86.10697732734333" />
+      <entry key="H1" value="170.35896939651994" />
+      <entry key="H2" value="257.72655575079875" />
+      <entry key="H4" value="346.3027180173978" />
+      <entry key="D1" value="850.3239519909282" />
+      <entry key="W1" value="1393.890275325924" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3FeJkZtYgrYgYycC9kX6tE9RDxM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AppLauncher.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;rama-andres&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Documents/Progra II Projects/Proyecto-ICCD244-G3&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f51f7eb-8825-43bd-b7cf-a6ef93986667" name="Changes" comment="" />
+      <created>1782429744942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782429744942</updated>
+      <workItem from="1782429746055" duration="4601000" />
+      <workItem from="1782436286206" duration="604000" />
+      <workItem from="1782446861349" duration="9465000" />
+      <workItem from="1782493051072" duration="24856000" />
+      <workItem from="1782703881148" duration="7260000" />
+    </task>
+    <task id="LOCAL-00001" summary="console version, incomplete">
+      <option name="closed" value="true" />
+      <created>1782455837133</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1782455837133</updated>
+    </task>
+    <task id="LOCAL-00002" summary="console version functioning, missing data persistence">
+      <option name="closed" value="true" />
+      <created>1782711010062</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1782711010062</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="console version, incomplete" />
+    <MESSAGE value="console version functioning, missing data persistence" />
+    <option name="LAST_COMMIT_MESSAGE" value="console version functioning, missing data persistence" />
+  </component>
+</project>
