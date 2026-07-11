@@ -4,7 +4,77 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f51f7eb-8825-43bd-b7cf-a6ef93986667" name="Changes" comment="console version functioning, missing data persistence" />
+    <list default="true" id="1f51f7eb-8825-43bd-b7cf-a6ef93986667" name="Changes" comment="console version functioning, missing data persistence">
+      <change afterPath="$PROJECT_DIR$/Casino/src/main/java/base/Main.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Casino/src/main/java/base/MainConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Casino/src/main/java/base/accountsHandler/IncompleteUserDataException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Casino/src/main/java/base/accountsHandler/Login.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Casino/src/main/java/base/accountsHandler/LoginConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Casino/src/main/java/base/accountsHandler/Register.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Casino/src/main/java/base/accountsHandler/RegisterConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Casino/src/main/java/base/mainProgram/Games/GameMenu.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Casino/src/main/java/base/mainProgram/Games/GameMenuConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Casino/src/main/java/base/mainProgram/Games/Roulette/RotatedIcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Casino/src/main/java/base/mainProgram/Games/Roulette/Roulette.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Casino/src/main/java/base/mainProgram/Games/Roulette/RouletteConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Casino/src/main/java/base/mainProgram/Games/Slots/RollPanel.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Casino/src/main/java/base/mainProgram/Games/Slots/RollPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Casino/src/main/java/base/mainProgram/Games/Slots/RollPanelListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Casino/src/main/java/base/mainProgram/Games/Slots/Slots.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Casino/src/main/java/base/mainProgram/Games/Slots/SlotsConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Casino/src/main/java/base/mainProgram/Home.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Casino/src/main/java/base/mainProgram/HomeConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Casino/src/main/java/base/mainProgram/ModifyUserData.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Casino/src/main/java/base/mainProgram/ModifyUserDataConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Casino/src/main/java/base/res/ball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Casino/src/main/java/base/res/bell.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Casino/src/main/java/base/res/cherries.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Casino/src/main/java/base/res/lemon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Casino/src/main/java/base/res/roulette.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Casino/src/main/java/base/res/roulette2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Casino/src/main/java/base/res/rouletteTable.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Casino/src/main/java/base/res/seven.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/unknown/binary/AbsoluteLayout/SNAPSHOT/AbsoluteLayout-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Casino/Casino.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Casino/Casino.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Casino/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Casino/src/main/java/base/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Casino/src/accountsHandler/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/Casino/src/main/java/base/accountsHandler/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Casino/src/accountsHandler/DuplicateUserException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Casino/src/main/java/base/accountsHandler/DuplicateUserException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Casino/src/accountsHandler/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/Casino/src/main/java/base/accountsHandler/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Casino/src/accountsHandler/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/Casino/src/main/java/base/accountsHandler/Register.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Casino/src/accountsHandler/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Casino/src/main/java/base/accountsHandler/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Casino/src/mainProgram/Games/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/Casino/src/main/java/base/mainProgram/Games/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Casino/src/mainProgram/Games/GameMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/Casino/src/main/java/base/mainProgram/Games/GameMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Casino/src/mainProgram/Games/GameResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/Casino/src/main/java/base/mainProgram/Games/GameResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Casino/src/mainProgram/Games/Playable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Casino/src/main/java/base/mainProgram/Games/Playable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Casino/src/mainProgram/Games/Roulette/BetsRoulette.java" beforeDir="false" afterPath="$PROJECT_DIR$/Casino/src/main/java/base/mainProgram/Games/Roulette/BetsRoulette.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Casino/src/mainProgram/Games/Roulette/Roulette.java" beforeDir="false" afterPath="$PROJECT_DIR$/Casino/src/main/java/base/mainProgram/Games/Roulette/Roulette.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Casino/src/mainProgram/Games/Slots/SimpleSlotRoll.java" beforeDir="false" afterPath="$PROJECT_DIR$/Casino/src/main/java/base/mainProgram/Games/Slots/SimpleSlotRoll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Casino/src/mainProgram/Games/Slots/Slots.java" beforeDir="false" afterPath="$PROJECT_DIR$/Casino/src/main/java/base/mainProgram/Games/Slots/Slots.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Casino/src/mainProgram/Games/Slots/SymbolNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Casino/src/main/java/base/mainProgram/Games/Slots/SymbolNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Casino/src/mainProgram/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/Casino/src/main/java/base/mainProgram/Home.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Casino/src/mainProgram/ModifyUserData.java" beforeDir="false" afterPath="$PROJECT_DIR$/Casino/src/main/java/base/mainProgram/ModifyUserData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Casino/src/mainProgram/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/Casino/src/main/java/base/mainProgram/Payment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Casino/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Casino/accountsHandler/Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Casino/accountsHandler/DuplicateUserException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Casino/accountsHandler/Login.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Casino/accountsHandler/Register.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Casino/accountsHandler/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Casino/mainProgram/Games/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Casino/mainProgram/Games/GameMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Casino/mainProgram/Games/GameResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Casino/mainProgram/Games/Playable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Casino/mainProgram/Games/Roulette/BetsRoulette.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Casino/mainProgram/Games/Roulette/Roulette.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Casino/mainProgram/Games/Slots/SimpleSlotRoll.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Casino/mainProgram/Games/Slots/Slots.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Casino/mainProgram/Games/Slots/SymbolNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Casino/mainProgram/Home.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Casino/mainProgram/ModifyUserData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Casino/mainProgram/Payment.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +96,7 @@
         <entry key="$PROJECT_DIR$/prev_code_IA" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/prev_code_IA" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -42,61 +112,61 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0102377810006617" />
-      <entry key="MS500" value="1.4535559185453593" />
-      <entry key="S2" value="2.623301772791327" />
-      <entry key="S5" value="4.017402557045255" />
-      <entry key="S10" value="5.10913401240603" />
-      <entry key="S30" value="6.245705362167159" />
-      <entry key="S60" value="6.604457114628342" />
-      <entry key="M2" value="6.808634515363506" />
-      <entry key="M5" value="7.496191093762975" />
-      <entry key="M10" value="11.569711983883378" />
-      <entry key="M15" value="18.41908896834166" />
-      <entry key="M30" value="42.539700370840286" />
-      <entry key="H1" value="79.09816566683656" />
-      <entry key="H2" value="116.31469161927905" />
-      <entry key="H4" value="156.05760884180944" />
-      <entry key="D1" value="408.3848786956461" />
-      <entry key="W1" value="677.8975955071368" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000000010055798" />
+      <entry key="S10" value="1.0000448336917107" />
+      <entry key="S30" value="1.062600714643443" />
+      <entry key="S60" value="1.5719158478262032" />
+      <entry key="M2" value="3.2785018853543004" />
+      <entry key="M5" value="7.025264525916191" />
+      <entry key="M10" value="12.14210018741022" />
+      <entry key="M15" value="18.838366070138783" />
+      <entry key="M30" value="42.386329011852105" />
+      <entry key="H1" value="79.31476284137689" />
+      <entry key="H2" value="117.78673125575763" />
+      <entry key="H4" value="158.68838613870173" />
+      <entry key="D1" value="412.3571188916364" />
+      <entry key="W1" value="682.6543178936001" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="6.072523405878427E-128" />
-      <entry key="S5" value="1.298218157662325E-51" />
-      <entry key="S10" value="3.6031515833888864E-26" />
-      <entry key="S30" value="3.4006253827786942E-9" />
-      <entry key="S60" value="6.987462234737019E-5" />
-      <entry key="M2" value="0.01336420996566171" />
-      <entry key="M5" value="0.7709107958667961" />
-      <entry key="M10" value="5.776052023800575" />
-      <entry key="M15" value="13.933456767068265" />
-      <entry key="M30" value="43.59404593009349" />
-      <entry key="H1" value="91.28955288435985" />
-      <entry key="H2" value="141.43431369272295" />
-      <entry key="H4" value="190.26058934783666" />
-      <entry key="D1" value="441.94549230126296" />
-      <entry key="W1" value="715.994135901305" />
+      <entry key="S2" value="7.083275250096669E-175" />
+      <entry key="S5" value="2.1882334250377185E-70" />
+      <entry key="S10" value="1.4792974796931053E-35" />
+      <entry key="S30" value="2.5274531857422835E-12" />
+      <entry key="S60" value="1.9049414758360558E-6" />
+      <entry key="M2" value="0.0022066038534114102" />
+      <entry key="M5" value="0.3750736548445039" />
+      <entry key="M10" value="4.02890764924844" />
+      <entry key="M15" value="10.958800444511374" />
+      <entry key="M30" value="38.6615489315334" />
+      <entry key="H1" value="85.97003747960332" />
+      <entry key="H2" value="137.25172310136" />
+      <entry key="H4" value="187.42622010503263" />
+      <entry key="D1" value="440.8413193052756" />
+      <entry key="W1" value="715.7383095162862" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9758253735209613" />
-      <entry key="MS500" value="1.4435155056000843" />
-      <entry key="S2" value="2.6187886233129194" />
-      <entry key="S5" value="4.0146736102731975" />
-      <entry key="S10" value="5.107407989143228" />
-      <entry key="S30" value="6.2450038910634795" />
-      <entry key="S60" value="6.604155849815691" />
-      <entry key="M2" value="6.821758918257659" />
-      <entry key="M5" value="8.265233245146776" />
-      <entry key="M10" value="17.336944693282717" />
-      <entry key="M15" value="32.33687980082388" />
-      <entry key="M30" value="86.10697732734333" />
-      <entry key="H1" value="170.35896939651994" />
-      <entry key="H2" value="257.72655575079875" />
-      <entry key="H4" value="346.3027180173978" />
-      <entry key="D1" value="850.3239519909282" />
-      <entry key="W1" value="1393.890275325924" />
+      <entry key="MS100" value="0.9526379980439373" />
+      <entry key="MS500" value="0.9903428719330246" />
+      <entry key="S2" value="0.9975769252644544" />
+      <entry key="S5" value="0.9990300656434418" />
+      <entry key="S10" value="0.9995597250943657" />
+      <entry key="S30" value="1.0624267856730942" />
+      <entry key="S60" value="1.5717625851427421" />
+      <entry key="M2" value="3.2804868899838353" />
+      <entry key="M5" value="7.399263719491505" />
+      <entry key="M10" value="16.164744132251112" />
+      <entry key="M15" value="29.784762200840657" />
+      <entry key="M30" value="81.02409172430269" />
+      <entry key="H1" value="165.25770212334143" />
+      <entry key="H2" value="255.01665622245272" />
+      <entry key="H4" value="346.0993503671449" />
+      <entry key="D1" value="853.1920341637875" />
+      <entry key="W1" value="1398.3911716952507" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -108,31 +178,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AppLauncher.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;rama-andres&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Documents/Progra II Projects/Proyecto-ICCD244-G3&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AppLauncher.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Roulette.executor": "Run",
+    "Application.test.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "rama-andres",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/Documents/Progra II Projects/Proyecto-ICCD244-G3/Casino/src/main/java/base",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\Progra II Projects\Proyecto-ICCD244-G3\Casino\src\main\java\base" />
+      <recent name="C:\Users\User\Documents\Progra II Projects\Proyecto-ICCD244-G3\Casino\src\main\java\base\mainProgram\Games\Slots" />
+      <recent name="C:\Users\User\Documents\Progra II Projects\Proyecto-ICCD244-G3\Casino\src\main\java\base\mainProgram\Games\Roulette" />
+      <recent name="C:\Users\User\Documents\Progra II Projects\Proyecto-ICCD244-G3\Casino\src\main\java\base\mainProgram\Games" />
+      <recent name="C:\Users\User\Documents\Progra II Projects\Proyecto-ICCD244-G3\Casino\src\main\java\base\mainProgram" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\Progra II Projects\Proyecto-ICCD244-G3\Casino\src\main" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -152,7 +236,8 @@
       <workItem from="1782436286206" duration="604000" />
       <workItem from="1782446861349" duration="9465000" />
       <workItem from="1782493051072" duration="24856000" />
-      <workItem from="1782703881148" duration="7260000" />
+      <workItem from="1782703881148" duration="8318000" />
+      <workItem from="1783397121330" duration="876000" />
     </task>
     <task id="LOCAL-00001" summary="console version, incomplete">
       <option name="closed" value="true" />
