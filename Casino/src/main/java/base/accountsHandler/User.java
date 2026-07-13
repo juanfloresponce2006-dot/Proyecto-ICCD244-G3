@@ -1,12 +1,17 @@
 package base.accountsHandler;
 
-public class User {
+import java.io.Serializable;
+
+public class User implements Serializable {
+
+    // Identificador
+    private static final long serialVersionUID = 1L;
 
     private String name;
     private String email;
     private String password;
     private double balance;
-    
+
     public static int numberOfUsers;
 
     public User(String name, String email, String password, double balance) {
@@ -23,6 +28,7 @@ public class User {
 
     public void setName(String name) {
         this.name = name;
+        Data.saveData();
     }
 
     public String getEmail() {
@@ -31,6 +37,7 @@ public class User {
 
     public void setEmail(String email) {
         this.email = email;
+        Data.saveData();
     }
 
     public String getPassword() {
@@ -39,6 +46,7 @@ public class User {
 
     public void setPassword(String password) {
         this.password = password;
+        Data.saveData();
     }
 
     public double getBalance() {
@@ -47,6 +55,7 @@ public class User {
 
     public void setBalance(double balance) {
         this.balance = balance;
+        Data.saveData(); //
     }
 
     @Override
